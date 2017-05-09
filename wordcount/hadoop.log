@@ -1,0 +1,24 @@
+2014-12-23 11:44:27,834 ERROR org.apache.hadoop.mrunit.TestDriver: Matched expected output (orange, 1) but at incorrect position 1 (expected position 0)
+2014-12-23 11:44:27,836 ERROR org.apache.hadoop.mrunit.TestDriver: Missing expected output (orange, 1) at position 1.
+2014-12-23 11:44:27,837 ERROR org.apache.hadoop.mrunit.TestDriver: Matched expected output (apple, 1) but at incorrect position 0 (expected position 2)
+2014-12-23 11:56:01,985 ERROR org.apache.hadoop.mrunit.TestDriver: Missing expected output (orange, 1) at position 0.
+2014-12-23 11:56:01,991 ERROR org.apache.hadoop.mrunit.TestDriver: Missing expected output (orange, 1) at position 1.
+2014-12-23 11:56:01,991 ERROR org.apache.hadoop.mrunit.TestDriver: Missing expected output (apple, 1) at position 2.
+2014-12-23 11:56:16,812 ERROR org.apache.hadoop.mrunit.TestDriver: Missing expected output (orange, 1) at position 0.
+2014-12-23 11:56:16,821 ERROR org.apache.hadoop.mrunit.TestDriver: Missing expected output (orange, 1) at position 1.
+2014-12-23 11:56:16,824 ERROR org.apache.hadoop.mrunit.TestDriver: Missing expected output (apple, 1) at position 2.
+2014-12-23 11:57:04,006 ERROR org.apache.hadoop.mrunit.TestDriver: Missing expected output (orange, 1) at position 0.
+2014-12-23 11:57:04,009 ERROR org.apache.hadoop.mrunit.TestDriver: Missing expected output (orange, 1) at position 1.
+2014-12-23 11:57:04,012 ERROR org.apache.hadoop.mrunit.TestDriver: Missing expected output (apple, 1) at position 2.
+2014-12-23 11:57:30,545 ERROR org.apache.hadoop.mrunit.TestDriver: Matched expected output (orange, 1) but at incorrect position 1 (expected position 0)
+2014-12-23 11:57:30,551 ERROR org.apache.hadoop.mrunit.TestDriver: Missing expected output (orange, 1) at position 1.
+2014-12-23 11:57:30,552 ERROR org.apache.hadoop.mrunit.TestDriver: Matched expected output (apple, 1) but at incorrect position 0 (expected position 2)
+2014-12-23 11:59:48,849 ERROR org.apache.hadoop.mrunit.TestDriver: Matched expected output (orange, 1) but at incorrect position 1 (expected position 0)
+2014-12-23 11:59:48,855 ERROR org.apache.hadoop.mrunit.TestDriver: Missing expected output (orange, 1) at position 1.
+2014-12-23 11:59:48,856 ERROR org.apache.hadoop.mrunit.TestDriver: Matched expected output (apple, 1) but at incorrect position 0 (expected position 2)
+2014-12-23 12:00:27,987 ERROR org.apache.hadoop.mrunit.TestDriver: Matched expected output (orange, 1) but at incorrect position 1 (expected position 0)
+2014-12-23 12:00:27,991 ERROR org.apache.hadoop.mrunit.TestDriver: Matched expected output (apple, 1) but at incorrect position 0 (expected position 1)
+2014-12-23 12:21:47,413 ERROR org.apache.hadoop.mrunit.TestDriver: Missing expected output (orange, (null)) at position 0.
+2014-12-23 12:21:47,433 ERROR org.apache.hadoop.mrunit.TestDriver: Matched expected output (apple, (null)) but at incorrect position 0 (expected position 1)
+2014-12-23 12:22:55,961 ERROR org.apache.hadoop.mrunit.TestDriver: Missing expected output (orange, (null)) at position 1.
+2014-12-23 12:25:45,432 ERROR org.apache.hadoop.mrunit.TestDriver: Missing expected output (orange, (null)) at position 1.
